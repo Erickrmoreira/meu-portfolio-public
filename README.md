@@ -1,4 +1,4 @@
-# Meu Portfolio Público
+## Meu Portfolio Público
 
 Código-fonte público do meu site pessoal, construído com React para mostrar meu trabalho, projetos e habilidades na prática.
 
