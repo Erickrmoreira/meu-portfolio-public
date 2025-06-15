@@ -42,8 +42,11 @@ Este é o meu site pessoal, feito com React, mostrando meus projetos, habilidade
 
 
 ## Contato
+
 Site: erickrmoreira.com.br
+
 Linkedin: linkedin/in/erickrmoreira
+
 GitHub: github.com/erickrmoreira
 
 
