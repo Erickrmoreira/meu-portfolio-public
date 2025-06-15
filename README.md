@@ -40,6 +40,7 @@ Este é o meu site pessoal, feito com React, mostrando meus projetos, habilidade
 
 8. Abra no navegador o endereço mostrado no terminal (geralmente http://localhost:5173)
 
+---
 
 ## Contato
 
