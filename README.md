@@ -1,6 +1,6 @@
 # Meu Portfolio Público
 
-Este repositório contém o código-fonte público do meu site portfólio pessoal, desenvolvido com React para apresentar meus projetos, habilidades e experiências.
+Código-fonte público do meu site pessoal, construído com React para mostrar meu trabalho, projetos e habilidades na prática.
 
 ---
 
@@ -13,10 +13,10 @@ Este é o meu site pessoal, feito com React, mostrando meus projetos, habilidade
 ## Tecnologias Utilizadas
 
 - React
-- JavaScript (ES6+)
+- JavaScript
 - HTML5
 - CSS3
-- Design no Figma
+- Figma
 
 ---
 
@@ -26,13 +26,19 @@ Este é o meu site pessoal, feito com React, mostrando meus projetos, habilidade
    ```bash
    git clone https://github.com/erickrmoreira/meu-portfolio-public.git
 
-2. Acesse a pasta do projeto: cd meu-portfolio-public
+2. Acesse a pasta do projeto:
+   ```bash
+   cd meu-portfolio-public
 
-3. Instale as dependências: npm install
+4. Instale as dependências:
+   ```bash
+   npm install
 
-4. Rode o projeto localmente: npm run dev
+6. Rode o projeto localmente:
+   ```bash
+   npm run dev
 
-5. Abra no navegador o endereço mostrado no terminal (geralmente http://localhost:5173)
+8. Abra no navegador o endereço mostrado no terminal (geralmente http://localhost:5173)
 
 
 ## Contato
