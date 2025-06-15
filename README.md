@@ -6,7 +6,7 @@ Este repositório contém o código-fonte público do meu site portfólio pessoa
 
 ## Sobre
 
-Este site foi criado para mostrar meu trabalho como desenvolvedor front-end, com projetos reais, design feito no Figma e tecnologias modernas.
+Este é o meu site pessoal, feito com React, mostrando meus projetos, habilidades e tudo que eu faço como desenvolvedor. Design criado no Figma, código moderno e simples para entregar uma boa experiência.
 
 ---
 
