@@ -30,11 +30,11 @@ function Contato() {
     e.preventDefault();
     setLoading(true);
 
-    emailjs.sendForm(
-      'service_z2xhj0m',
-      'template_418g9xn',
+    emailjs.sendForm( //Não irei colocar esses dados no público por motivos óbvios.
+      ' ', //Aqui fica o 'service ID' do emailjs; 
+      ' ', //Aqui fica o 'template ID' do emailjs;
       form.current,
-      'ths4FrV3yaPqcu7Kh'
+      ' ' //Aqui fica o 'public key' do emailjs;
     ).then(
       () => {
         setStatus('success');
