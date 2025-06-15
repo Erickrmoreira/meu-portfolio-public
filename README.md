@@ -1,12 +1,44 @@
-# React + Vite
+# Meu Portfolio Público
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém o código-fonte público do meu site portfólio pessoal, desenvolvido com React para apresentar meus projetos, habilidades e experiências.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sobre
 
-## Expanding the ESLint configuration
+Este site foi criado para mostrar meu trabalho como desenvolvedor front-end, com projetos reais, design feito no Figma e tecnologias modernas.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tecnologias Utilizadas
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Design no Figma
+
+---
+
+## Como rodar localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/erickrmoreira/meu-portfolio-public.git
+
+2. Acesse a pasta do projeto: cd meu-portfolio-public
+
+3. Instale as dependências: npm install
+
+4. Rode o projeto localmente: npm run dev
+
+5. Abra no navegador o endereço mostrado no terminal (geralmente http://localhost:5173)
+
+
+## Contato
+Site: erickrmoreira.com.br
+Linkedin: linkedin/in/erickrmoreira
+GitHub: github.com/erickrmoreira
+
+
+
